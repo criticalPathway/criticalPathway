@@ -1,43 +1,11 @@
-# 👋 Hi, I'm Artur 
+This is the github of Peter Braden; allegedly I've been using this site for both professional and personal projects since 2016. Consequently, there is a lot of code here of very variable quality and relevance.
 
-## <div align="left">🏆 Github Trophy</div>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+If you're interested in my professional achievements, you are better suited looking at my resume, or reading more about me on my website.
 
-💻 **Full Stack Developer | 9+ Years of Experience**  
-I specialize in building fast, scalable, and user-friendly applications across web and backend systems.  
-Passionate about clean code, performance optimization, and solving complex technical problems.  
+I am currently available for contract work - please reach out if you would benefit from my expertise!
 
----
+If you're interested in the tools that a dinosaur like myself uses, then my dotfiles repo is likely of interest.
 
-## 🚀 Skills & Expertise
-- **Frontend**: HTML, CSS, JavaScript, React, Vue  
-- **Backend**: Node.js, PHP, C++  
-- **CMS & Frameworks**: WordPress, Express, Laravel  
-- **Data & APIs**: REST API Development, API Integration, Web Scraping, Data Visualization  
-- **Other**: SEO Optimization, Full Stack Development, Technical Writing, Translation  
+I no longer contribute to much open source in my free time, but I still have several projects.
 
----
-
-## 📂 Featured Projects
-- 🔗 [Crypto Faucet & Mining Platform](#) – User balance tracking + secure withdrawals  
-- 🔗 [E-commerce Migration to Shopify](#) – Fast & optimized store setup  
-- 🔗 [Web Scraping Tools](#) – Automated data collection & processing  
-
----
-
-## 🌟 What I Can Do for You
-✅ Build reliable, production-ready applications  
-✅ Optimize websites for speed, SEO, and performance  
-✅ Integrate APIs and manage complex data workflows  
-✅ Deliver clean code, clear documentation, and long-term support  
-
----
-
-## 📫 Let’s Connect
-- ✉️ Email: criticalPathway@gmail.com 
-- 🔗 GitHub: [criticalPathway](https://github.com/criticalPathway)  
-- 💼 LinkedIn:   
-
----
-
-⭐ *Always open to new challenges and collaboration opportunities.* 
+Please feel free to contact me.
