@@ -1,4 +1,5 @@
-This is the github of Artur; allegedly I've been using this site for both professional and personal projects since 2016. Consequently, there is a lot of code here of very variable quality and relevance.
+This is the github of Artur
+Allegedly I've been using this site for both professional and personal projects since 2016. Consequently, there is a lot of code here of very variable quality and relevance.
 
 If you're interested in my professional achievements, you are better suited looking at my resume, or reading more about me on my website.
 
