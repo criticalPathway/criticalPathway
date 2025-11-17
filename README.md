@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Artur 
 
-<!--
-**criticalPathway/criticalPathway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="left">🏆 Github Trophy</div>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
 
-Here are some ideas to get you started:
+💻 **Full Stack Developer | 9+ Years of Experience**  
+I specialize in building fast, scalable, and user-friendly applications across web and backend systems.  
+Passionate about clean code, performance optimization, and solving complex technical problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Expertise
+- **Frontend**: HTML, CSS, JavaScript, React, Vue  
+- **Backend**: Node.js, PHP, C++  
+- **CMS & Frameworks**: WordPress, Express, Laravel  
+- **Data & APIs**: REST API Development, API Integration, Web Scraping, Data Visualization  
+- **Other**: SEO Optimization, Full Stack Development, Technical Writing, Translation  
+
+---
+
+## 📂 Featured Projects
+- 🔗 [Crypto Faucet & Mining Platform](#) – User balance tracking + secure withdrawals  
+- 🔗 [E-commerce Migration to Shopify](#) – Fast & optimized store setup  
+- 🔗 [Web Scraping Tools](#) – Automated data collection & processing  
+
+---
+
+## 🌟 What I Can Do for You
+✅ Build reliable, production-ready applications  
+✅ Optimize websites for speed, SEO, and performance  
+✅ Integrate APIs and manage complex data workflows  
+✅ Deliver clean code, clear documentation, and long-term support  
+
+---
+
+## 📫 Let’s Connect
+- ✉️ Email: criticalPathway@gmail.com 
+- 🔗 GitHub: [criticalPathway](https://github.com/criticalPathway)  
+- 💼 LinkedIn:   
+
+---
+
+⭐ *Always open to new challenges and collaboration opportunities.* 
