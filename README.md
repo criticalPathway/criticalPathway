@@ -10,3 +10,7 @@ If you're interested in the tools that a dinosaur like myself uses, then my dotf
 I no longer contribute to much open source in my free time, but I still have several projects.
 
 Please feel free to contact me.
+### Skills
+<p align="left">
+<img src="https://github.com/anhhiblog/ahi/blob/main/image/Skills_Animation_White.gif" />
+</p>
