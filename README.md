@@ -1,4 +1,4 @@
-This is the github of Artur.
+This is the github of Art.
 
 Allegedly I've been using this site for both professional and personal projects since 2013. Consequently, there is a lot of code here of very variable quality and relevance.
 
