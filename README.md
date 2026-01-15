@@ -10,4 +10,4 @@ I no longer contribute to much open source in my free time, but I still have sev
 
 📧Please feel free to contact me.
 
-✔Telegram,Discord lighthouse4661
+✔Discord lighthouse4661
